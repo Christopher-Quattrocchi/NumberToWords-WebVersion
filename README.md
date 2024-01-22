@@ -39,7 +39,7 @@ Follow these steps to set up the project locally:
    cd Number_To_Words
    ```
 4. Open in a code editor like __Visual Studio Code__.
-5. In the command line, run the command ``` dotnet run ``` to compile and execute the console application. Since this is a console application, you'll interact with it through text commands in your terminal.
+5. In the command line, run the command ``` dotnet run ``` to compile and execute the application.
 6. Optionally, you can run ``` dotnet build ``` to compile this console app without running it.
 
 ## Contributing
